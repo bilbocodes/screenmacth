@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8903e54-d7a2-4c29-8856-aa8cafa57b42" name="Changes" comment="add files">
-      <change afterPath="$PROJECT_DIR$/src/br/com/screenmatch/calculos/Classificacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/screenmatch/modelos/Episodios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-    </list>
+    <list default="true" id="f8903e54-d7a2-4c29-8856-aa8cafa57b42" name="Changes" comment="add new files/methods" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Luka Andrade &lt;luka.andrade88@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -103,7 +104,7 @@
       <workItem from="1718756829936" duration="151000" />
       <workItem from="1718756993148" duration="2510000" />
       <workItem from="1718839442352" duration="1571000" />
-      <workItem from="1718990729705" duration="817000" />
+      <workItem from="1718990729705" duration="1162000" />
     </task>
     <task id="LOCAL-00001" summary="add files">
       <option name="closed" value="true" />
@@ -113,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718419334581</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add new files/methods">
+      <option name="closed" value="true" />
+      <created>1718992693569</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718992693569</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +130,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add files" />
+    <MESSAGE value="add new files" />
+    <MESSAGE value="add new files/methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new files/methods" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
