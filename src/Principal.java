@@ -33,9 +33,9 @@ public class  Principal {
         System.out.println("Duração da serie: " + sfh.getDuracaoEmMinutos());
 
         CalculadoraDeTempo calculadora = new CalculadoraDeTempo();
-        calculadora.incluiTempo(scream);
-        calculadora.incluiTempo(pussinboots);
-        calculadora.incluiTempo(sfh);
+        calculadora.inclui(scream);
+        calculadora.inclui(pussinboots);
+        calculadora.inclui(sfh);
         System.out.println(calculadora.getTempoTotal() + " minutos");
 
     }
